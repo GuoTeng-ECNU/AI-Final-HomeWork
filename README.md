@@ -7,7 +7,6 @@
 ### 项目目录
 ```
 .
-│  data.zip
 │  README.md
 │  requirements.txt
 │
