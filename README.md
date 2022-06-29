@@ -8,16 +8,17 @@
 ```
 .
 │  README.md
+│  Report.pdf
 │  requirements.txt
-│
+│  
 ├─model
-│      ImageModel.py
+│      ImageModel.py        
 │      TextModel.py
-│
+│      
 ├─notebook
 │      main.ipynb
 │      save_text_jsonl.ipynb
-│
+│      
 └─output
         test_output.txt
 ```
