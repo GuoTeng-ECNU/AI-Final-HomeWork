@@ -2,7 +2,7 @@
  - 本次实验训练主要在colab上执行，如需在本地执行，请安装相关依赖
  - pip3 install -r requirements.txt
  - 注意在执行时需修改路径，符合本地路径
- - 数据集需解压数据集, 数据集请从https://drive.google.com/file/d/1M1H5TqSCrbjkVL46O_bN63DHBCm7kXwR/view?usp=sharing下载
+ - 数据集需解压数据集, 数据集链接：https://drive.google.com/file/d/1M1H5TqSCrbjkVL46O_bN63DHBCm7kXwR/view?usp=sharing
 
 ### 项目目录
 ```
