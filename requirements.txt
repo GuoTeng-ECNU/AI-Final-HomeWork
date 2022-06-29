@@ -1,0 +1,6 @@
+nltk==3.7
+jsonlines==3.0.0
+torch==1.11.0
+torchtext==0.6.0
+numpy==1.21.6
+opencv-python
